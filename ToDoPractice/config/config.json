@@ -1,0 +1,20 @@
+{
+  "development": {
+    "url": "postgres://pklhhxyc:ZHY-CLCUH8lTLtXuaNgk2qw3Ug7V4FJM@lucky.db.elephantsql.com/pklhhxyc",
+    "dialect": "pg"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
